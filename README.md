@@ -25,7 +25,7 @@ Partly cloudy +13°C ↘13km/h | AaronSB2
 By default the format string used is `%C+%t+%w`, but you can override this with the `@forecast-format` option:
 
 ```bash
-set -g @forecast-format %C
+set -g @forecast-format '%C'
 ```
 
 Refer to `wttr.in` [documentation](https://github.com/chubin/wttr.in/blob/master/README.md#one-line-output) for format options.
