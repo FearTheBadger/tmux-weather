@@ -28,7 +28,7 @@ By default the format string used is `%C+%t+%w`, but you can override this with 
 set -g @forecast-format %C
 ```
 
-Refer to wttr.in [documentation](https://github.com/chubin/wttr.in/blob/master/README.md#one-line-output) for format options.
+Refer to `wttr.in` [documentation](https://github.com/chubin/wttr.in/blob/master/README.md#one-line-output) for format options.
 
 ## Installation with [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm) (recommended)
 
